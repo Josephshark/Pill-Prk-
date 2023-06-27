@@ -1,5 +1,4 @@
 import os
-
 import cv2 as cv
 import sys
 
@@ -37,3 +36,5 @@ cv.waitKey(0)
 
 cv.destroyAllWindows()
 print("Finished")
+
+
